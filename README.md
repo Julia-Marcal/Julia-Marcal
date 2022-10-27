@@ -18,7 +18,7 @@
 
 <br>
 
-<div style="display: block" align="center">
+<div style = "display: flex" align-items: "center" justify-content: "center">
   <a href="https://github.com/Julia-Marcal">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Julia-Marcal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Marcal&layout=compact&langs_count=7&theme=github_dark"/>
