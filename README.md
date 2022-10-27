@@ -1,6 +1,6 @@
 ### **Bem vindo ao meu perfil!**
 
-* ####  PT-BR
+* ###  PT-BR
 - 🔎 Procurando meu primeiro emprego como junior/estágiaria.
 - 📚 Estudando Javascript, Design Patterns, POO e Sql.
 - 🔓 Disponível para ajudar em projetos Open Source.
@@ -8,7 +8,7 @@
 - 😄 Pronouns: Ela/dela.
 - 📖 Fluente em inglês.
 
-* #### * EN
+* ###  EN
 - 🔎 Looking for my first job as a junior/intern on tech
 - 📚 Studying Javascript, Design Patterns, OOP and Sql.
 - 🔓 Willing to help Open Source projects.
