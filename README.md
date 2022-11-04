@@ -2,7 +2,7 @@
 <h1><b>Bem vindo ao meu perfil
 </div>
 
-<h3 align='center'>My Tech Skills and tools<h3>
+<h3 align='center'>My Tech Skills and Tools that i use<h3>
 
 <div style="display: block" align="center" justify-content="space-between"><br>
   <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +27,7 @@
 - Age: 18.
 - Pronouns: She/her.
 - Living in: São Paulo-Brasil.
-- Looking for my first job as a junior/intern on tech
+- Looking for my first job as a junior/intern on tech.
 - Willing to help Open Source projects.
 - Fluent in english.
 
