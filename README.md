@@ -2,7 +2,7 @@
 <h1><b>Bem vindo ao meu perfil
 </div>
 
-<h3 align='center'>My Tech Skills and Tools that i use<h3>
+<h3 align='center'>My Tech Skills and Tools That I Use<h3>
 
 <div style="display: block" align="center" justify-content="space-between"><br>
   <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
