@@ -19,7 +19,7 @@
 - Nome: Ana Julia Marçal.
 - Idade: 18.
 - Pronomes: Ela/dela.
-- Morando em: São Paulo-Brasil.
+- Morando em: Lages-Brasil.
 - Procurando meu primeiro emprego como junior/estágiaria.
 - Disponível para ajudar em projetos Open Source.
 - Fluente em inglês.
@@ -28,7 +28,7 @@
 - Name: Ana Julia Marçal.
 - Age: 18.
 - Pronouns: She/her.
-- Living in: São Paulo-Brasil.
+- Living in: Lages - Brazil.
 - Looking for my first job as a junior/intern on tech.
 - Willing to help Open Source projects.
 - Fluent in english.
