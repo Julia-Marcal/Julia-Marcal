@@ -13,7 +13,7 @@
   <img align="center" alt="Julia-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Julia-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Julia-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Julia-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Julia-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
  ###  General Information
@@ -21,8 +21,7 @@
 - Age: 18.
 - Pronouns: She/her.
 - Living in: Lages - SC.
-- Looking for my first job as a junior/intern on tech.
-- Willing to help Open Source projects.
+- Always learning.
 
  <br>
 <div align="center">
