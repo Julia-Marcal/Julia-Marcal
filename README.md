@@ -26,6 +26,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Marcal&layout=compact&langs_count=10&theme=transparent&exclude_repo=Skull_Coin_Colletor_3D"/>
 </div>
   
- <h2> Contact 📧 :</h2>
-<a href = "mailto:anajulia.05marcali@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<h2> Contact 📧 :</h2>
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
