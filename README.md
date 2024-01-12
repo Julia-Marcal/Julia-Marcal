@@ -15,7 +15,7 @@
 
  ###  General Information
 - Name: Ana Julia Marçal.
-- Age: 18.
+- Age: 19.
 - Pronouns: She/her.
 - Living in: Lages - SC.
 - Always learning.
