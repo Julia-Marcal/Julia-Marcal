@@ -2,21 +2,22 @@
 <h1><b>Welcome
   <img src="https://slackmojis.com/emojis/13169-catcoin/download" />
 </div>
-<h3 align='center'>My Tech Skills and Tools That I Use<h3>
+<h3 align='center'>My Tech Stack<h3>
 
 <div style="display: block" align="center" justify-content="space-between"><br>
-  <img align="center" alt="Julia-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julia-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Julia-GOLANG" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Julia-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Julia-ANGULAR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="GOLANG" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="ANGULAR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
 </div>
 
  ###  General Information
 - Name: Ana Julia Marçal.
-- Age: 19.
+- Age: 20.
 - Pronouns: She/her.
-- Always learning.
+- I’m a fullstack developer focused on backend. Here on GitHub, I’ve been working on some open-source projects, such as [Go Reusable API](https://github.com/Julia-Marcal/Go-reusable-api), a performant and reusable API built with Golang, and [Fake-Fintech](https://github.com/Julia-Marcal/fake-fintech), where I explore tech concepts related to the financial world.
 
  <br>
 <div align="center">
@@ -32,5 +33,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://medium.com/@juliamrc" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
