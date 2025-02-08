@@ -20,10 +20,6 @@
 - I’m a fullstack developer focused on backend. Here on GitHub, I’ve been working on some open-source projects, such as [Go Reusable API](https://github.com/Julia-Marcal/Go-reusable-api), a performant and reusable API built with Golang, and [Fake-Fintech](https://github.com/Julia-Marcal/fake-fintech), where I explore tech concepts related to the financial world.
 
  <br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-Marcal&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Marcal&layout=compact&langs_count=10&theme=transparent&exclude_repo=Skull_Coin_Colletor_3D"/>
-</div>
   
 <h2> Contact 📧 :</h2>
 <a href="mailto:anajulia.05marcal@gmail.com" target="_blank">
