@@ -1,6 +1,5 @@
 <div align='center'> 
-  <h1><b>Welcome</b></h1>
-  <img src="https://slackmojis.com/emojis/13169-catcoin/download" width="30" height="30" />
+  <h1><b>Welcome</b> <img src="https://slackmojis.com/emojis/13169-catcoin/download" width="30" height="30"/> </h1>
 </div>
 
 <h3 align='center'>My Tech Stack</h3>
