@@ -27,7 +27,7 @@
 <br>
 
 <h2 align="center">Contact 📧</h2>
-<div align="center" style="display: flex; gap: 10px; justify-content: center">
+<div style="display: flex; gap: 10px; justify-content: center">
   <a href="mailto:anajulia.05marcal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
