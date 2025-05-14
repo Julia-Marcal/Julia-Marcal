@@ -5,7 +5,7 @@
 
 <h3 align='center'>My Tech Stack</h3>
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap"><br>
+<div  align='center' style="gap: 15px; flex-wrap: wrap"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="GOLANG" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
